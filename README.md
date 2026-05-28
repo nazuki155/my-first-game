@@ -1,3 +1,22 @@
 # my-first-game
-This is the first time that I createed my original game by using Python.
-I created a shooting game. 
+Pythonを使って初めて簡単なシューティングゲームを作ってみました
+制限時間内に敵の宇宙船を倒せば勝ちです
+
+操作方法
+←→　左右に移動
+Z     弾発射
+
+タイトル画面で"S"を押すとスタートです
+ゲームが終わったら"T"を押すとタイトル画面にいけます
+
+
+
+This is the first time that I created my original game by using Python.
+If you could destroy an enemy's space ship on limited time, you win.
+
+How To Operate
+←→　move left and right.
+Z     shot a bullet
+
+Press "S" on title, you can start game.
+If you finishied playing game, press "T" and you can go to title.
