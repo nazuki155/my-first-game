@@ -14,7 +14,7 @@ Z     弾発射
 This is the first time that I created my original game by using Python.
 If you could destroy an enemy's space ship on limited time, you win.
 
-How To Operate
+How to operate
 ←→　move left and right.
 Z     shot a bullet
 
